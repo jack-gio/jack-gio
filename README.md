@@ -22,10 +22,10 @@ Alongside my enthusiasm within the digital space, I partake in Powerlifting / Ji
 
 
    <p align="left">
-      <a href="https://github.com/JPGIODevs?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JPGIODevs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/JPGIODevs?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JPGIODevs?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/jack-gio?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jack-gio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/jack-gio?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jack-gio?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -56,7 +56,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" /
 
 ![JP Gio's GitHub stats](https://github-readme-stats.vercel.app/api?username=jack-gio&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=JPGIODevs&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=jack-gio&theme=gruvbox&border_radius=4.5) -->
 
 #
 
